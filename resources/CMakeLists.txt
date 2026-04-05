@@ -1,0 +1,10 @@
+﻿configure_file ("back1.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("back2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("back3.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("back4.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("back5.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("back6.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("playerRide.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("never.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file (C:/SFML/SFML-2.5.1/bin/openal32.dll ${CMAKE_BINARY_DIR} COPYONLY)
+
