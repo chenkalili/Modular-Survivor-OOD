@@ -1,5 +1,6 @@
 # Modular-Survivor-OOD
 
+![Game Demo](resources/Modular-Survivor-OOD.gif)
 A 2D survival arcade game built with **C++** and **SFML**, emphasizing robust software architecture and modern development patterns.
 
 ## 🛠 Technical Highlights
